@@ -1,0 +1,26 @@
+{
+  "name": "grunt-uglify-example",
+  "version": "0.0.0",
+  "description": "Grunt uglify template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zouzias/grunt-examples.git"
+  },
+  "keywords": [
+    "grunt",
+    "uglify"
+  ],
+  "author": "Anastasios Zouzias",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zouzias/grunt-examples/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "~0.9.1"
+  }
+}
