@@ -1,12 +1,12 @@
-# Javascript Minification using Grunt
+# Javascript minification using Grunt
 
 A minimalistic Gruntfile.js for minifying Javascript. This project will minify the javascript files `src/util.js` and `src/application.js`.
 
-Install npm modules first.
+Install all required npm modules
 ```
+npm install -g grunt grunt-cli    # Install grunt first
 npm install
 ```
-
 
 To minify src/application.js, type
 
