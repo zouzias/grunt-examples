@@ -1,6 +1,6 @@
 # Javascript Minification using Grunt
 
-A minimalistic Gruntfile.js for minifying Javascript.
+A minimalistic Gruntfile.js for minifying Javascript. This project will minify the javascript files `src/util.js` and `src/application.js`.
 
 Install npm modules first.
 ```
