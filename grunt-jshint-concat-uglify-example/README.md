@@ -1,26 +1,14 @@
-# A minimalistic Grunt minification example
+# Javascript lint, concatenation and minificaction
 
-A minimalistic Gruntfile.js for minifying Javascript.
+Gruntfile.js for jshint, minifying and concatenating Javascript code.
 
 Install npm modules first.
 ```
+npm isntall -g grunt grunt-cli
 npm install
 ```
 
-
-To minify src/application.js, type
-
+To jshist src/*.js, concatenate and finally minify, type
 ```
-grunt uglify:target
-```
-
-To minify src/util.js, type
-```
-grunt uglify:util
-```
-
-To minify both files (src/{util,application}.js), type
-
-```
-grunt uglify
+grunt 
 ```
