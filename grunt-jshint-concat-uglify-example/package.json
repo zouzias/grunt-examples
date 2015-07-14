@@ -1,0 +1,30 @@
+{
+  "name": "grunt-jshint-concat-uglify-example",
+  "version": "0.0.0",
+  "description": "Grunt jshist concat uglify template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zouzias/grunt-examples.git"
+  },
+  "keywords": [
+    "grunt",
+    "uglify"
+  ],
+  "author": "Anastasios Zouzias",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zouzias/grunt-examples/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "~0.9.1"
+    "grunt-contrib-jshint": "~0.11.2",
+    "grunt-contrib-concat": "~0.5.1"
+  },
+  "dependencies": {
+  }
+}
