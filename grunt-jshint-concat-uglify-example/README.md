@@ -1,4 +1,4 @@
-# Javascript lint, concatenation and minificaction
+# Javascript lint, concat and minify
 
 Gruntfile.js for jshint, minifying and concatenating Javascript code.
 
