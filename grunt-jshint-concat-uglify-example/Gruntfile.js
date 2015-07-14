@@ -11,11 +11,7 @@ module.exports = function(grunt){
 			target: {
 				src: "dest/application.js",
 				dest: "dist/application.min.js"
-			},
-			util: {
-				src: "src/util.js",
-				dest: "dist/util.min.js"
-			}	
+			}
 		},
 		jshint: {
 			options : {
