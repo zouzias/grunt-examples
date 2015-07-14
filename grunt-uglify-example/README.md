@@ -1,4 +1,4 @@
-# A minimalistic Grunt minification example
+# Javascript Minification using Grunt
 
 A minimalistic Gruntfile.js for minifying Javascript.
 
