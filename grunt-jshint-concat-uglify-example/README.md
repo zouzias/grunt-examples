@@ -8,7 +8,7 @@ npm isntall -g grunt grunt-cli
 npm install
 ```
 
-To jshist src/*.js, concatenate and finally minify, type
+To jshist, concatenate and finally minify `src/*.js` into `dist/`, type
 ```
 grunt 
 ```
