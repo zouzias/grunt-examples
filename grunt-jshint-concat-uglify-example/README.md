@@ -10,5 +10,5 @@ npm install
 
 To jshist, concatenate and finally minify `src/*.js` into `dist/`, type
 ```
-grunt 
+grunt default
 ```
